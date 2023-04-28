@@ -24,6 +24,15 @@
 
 
 # 2nd Deliverable
+ ΓΙΑ ΝΑ ΟΛΟΚΛΗΡΟΣΩ ΤΟ ΠΑΡΑΔΟΤΕΟ ΑΚΟΛΟΥΘΗΣΑ ΚΑΤΑ ΓΡΑΜΜΑ ΤΙς ΟΔΗΓΙΕΣ ΠΟΥ ΜΟΥ ΕΔΙΝΕ ΤΟ ΤΟΥΤΟΡΙΑΛ! 
+ ΠΑΡΑΚΑΤΩ ΘΑ ΔΕΙΤΕ ΤΑ ΠΑΡΑΔΟΤΕΑ
+ https://user-images.githubusercontent.com/100956350/234892264-8fcab1a9-0433-47aa-9b5d-5a6f8de265f2.mp4
+ https://user-images.githubusercontent.com/100956350/235171369-6bf839f8-0197-4269-bfaa-1c23e5f11af8.mp4
+ 
+
+
+
+https://user-images.githubusercontent.com/100956350/235203861-c508194a-cd65-4f03-b9ee-0543f0844f91.mp4
 
 
 # 3rd Deliverable 
