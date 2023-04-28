@@ -1,9 +1,9 @@
 # Lesson: Digital Storytelling
 
-### First and Last Name: xxx
-### University Registration Number: dpsdxxxxx
-### GitHub Personal Profile: xxx
-### Digital-Storytelling-Individual-Assignment: xxx
+### First and Last Name: ΠΑΝΑΓΙΩΤΗΣ ΚΟΥΡΤΙΔΗΣ
+### University Registration Number: dpsd17053
+### GitHub Personal Profile: https://github.com/kourtidaros
+### Digital-Storytelling-Individual-Assignment: 
 
 # Introduction
 
@@ -13,6 +13,14 @@
 
 
 # 1st Deliverable
+Στο πρώτο κομμάτι της εργασίας χρειαστείτε να μελετήσω το τουτοριαλ έτσι ώστε να μάθω πως να κάνω τις δικές μου φόρμες και σχέδια ώστε να σχεδιάσω την πόλη που θέλω
+
+Στο δεύτερο κομμάτι της εργασίας κατέβασα το έτοιμο αρχείο που μας δίνει το τουτοριαλ και αφού μελέτησα την διαδικασία του να φτιάξεις έναν κώνο συνέχισα με την κατασκευή μιας πινακίδας επίσης έβαλα φως στα σημεία που ήθελα , το φως μπορείς να είναι είτε κατευθυνόμενο είτε να φέγγει περιμετρικά
+
+Στο τρίτο το τελευταίο κομμάτι μελέτησα το πώς τ αντικείμενα θα κινούνται μέσα στον χώρο μου
+Αυτό γίνεται με το timeline επί της ουσίας το ταιν λάιβ είναι η καταγραφή μια κίνησης ενός αντικειμένου καρέ καρέ
+
+Για αυτό τα παραδοτέα χρησιμοποίησα και timeline στην κάμερα για το βιντεάκι που σας παρέδωσα
 
 
 # 2nd Deliverable
